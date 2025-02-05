@@ -1,0 +1,81 @@
+# Hi, I'm Jijo 👋  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jijo%20Jacob-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/jijojacob988/)  
+[![Twitter](https://img.shields.io/badge/Twitter-@Jijojacob__-blue?style=flat-square&logo=twitter)](https://twitter.com/Jijojacob_)  
+[![Instagram](https://img.shields.io/badge/Instagram-@Jijojacob__-red?style=flat-square&logo=instagram)](https://www.instagram.com/Jijojacob_)  
+[![Email](https://img.shields.io/badge/Email-jijojacob988@gmail.com-red?style=flat-square&logo=gmail)](mailto:jijojacob988@gmail.com)  
+
+🚀 **Web Developer | Trader | Tech Enthusiast**  
+
+I specialize in **MERN Stack development** and have a strong interest in **stock, options, and crypto trading**. With experience in **building scalable web applications** and analyzing financial markets, I bring a **blend of technology and strategy** to everything I do.  
+
+📍 **Currently Exploring:**  
+- Advanced **React & Next.js** for performance optimization  
+- **Stock, Options & Crypto Trading** strategies  
+- **Quantitative Research & Market Analysis** (Completed JP Morgan's course)  
+
+---
+
+## 🛠️ Tech Stack  
+**Languages:** JavaScript, Python, SQL, HTML, CSS  
+**Frameworks/Libraries:** React.js, Node.js, Express.js, MongoDB, Redux, Next.js  
+**Tools & Platforms:** Git, Docker, Postman, TradingView, Binance, Nginx  
+**Databases:** MongoDB, MySQL  
+
+---
+
+## 🔥 Featured Projects  
+
+🍕 **[Food Delivery App - Tomatoo](https://tomato-food-delapp-react.web.app/)**  
+A seamless React-based food ordering system.  
+🔗 [GitHub Repo](https://github.com/Jijojacob988/Tomatoo)  
+
+🛒 **[Trendify - E-Commerce App](https://trendify-e-commerce.firebaseapp.com/)**  
+A dynamic shopping platform with secure transactions.  
+🔗 [GitHub Repo](https://github.com/Jijojacob988/Trendify-E-Commerce-Backend)  
+
+📊 **[CryptoPlace - Crypto Tracker](https://66a38b1c4199c92133208736--aesthetic-mousse-2eec31.netlify.app/)**  
+Real-time cryptocurrency market analysis.  
+🔗 [GitHub Repo](https://github.com/Jijojacob988/Cryptoplace---Crypto-price-tracker)  
+
+📌 *More projects coming soon...*  
+
+---
+
+## 📈 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jijojacob988&show_icons=true&theme=react&count_private=true" alt="GitHub Stats" height="165px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jijojacob988&theme=react" alt="GitHub Streak" height="165px"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jijojacob988&layout=compact&theme=react" alt="Top Languages" height="165px"/>
+</p>
+
+---
+
+## 🎯 What I'm Working On  
+✅ **Mastering System Design & Scalability** for robust applications  
+✅ **Enhancing Communication Skills** for effective collaboration  
+✅ **Building Real-World Trading Strategies** using market data  
+
+---
+
+## 📬 Let's Connect!  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jijo%20Jacob-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/jijojacob988/)  
+[![Twitter](https://img.shields.io/badge/Twitter-@Jijojacob__-blue?style=flat-square&logo=twitter)](https://twitter.com/Jijojacob_)  
+[![Instagram](https://img.shields.io/badge/Instagram-@Jijojacob__-red?style=flat-square&logo=instagram)](https://www.instagram.com/Jijojacob_)  
+[![Email](https://img.shields.io/badge/Email-jijojacob988@gmail.com-red?style=flat-square&logo=gmail)](mailto:jijojacob988@gmail.com)  
+
+---
+
+💡 **Fun Fact:** I’ve been passionate about **nature** since school, planting trees every year to make the world greener! 🌳  
+
+🎯 **Let’s connect, build, and grow!** 🚀  
+
+---
+
+### ⭐ Check out some of my repositories. Show some ❤️ and maybe leave a ⭐ or two 😅
+
+
