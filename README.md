@@ -1,9 +1,9 @@
 # Hi, I'm Jijo 👋  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jijo%20Jacob-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/jijojacob988/)  
-[![Twitter](https://img.shields.io/badge/Twitter-@Jijojacob__-blue?style=flat-square&logo=twitter)](https://twitter.com/Jijojacob_)  
-[![Instagram](https://img.shields.io/badge/Instagram-@Jijojacob__-red?style=flat-square&logo=instagram)](https://www.instagram.com/Jijojacob_)  
-[![Email](https://img.shields.io/badge/Email-jijojacob988@gmail.com-red?style=flat-square&logo=gmail)](mailto:jijojacob988@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jijo%20Jacob-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/jijojacob988/)  
+[![Twitter](https://img.shields.io/badge/Twitter-@Jijojacob__-1DA1F2?style=flat&logo=twitter)](https://twitter.com/Jijojacob_)  
+[![Instagram](https://img.shields.io/badge/Instagram-@Jijojacob__-E4405F?style=flat&logo=instagram)](https://www.instagram.com/Jijojacob_)  
+[![Email](https://img.shields.io/badge/Email-jijojacob988@gmail.com-D14836?style=flat&logo=gmail)](mailto:jijojacob988@gmail.com)  
 
 🚀 **Web Developer | Trader | Tech Enthusiast**  
 
@@ -42,19 +42,6 @@ Real-time cryptocurrency market analysis.
 
 ---
 
-## 📈 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jijojacob988&show_icons=true&theme=react&count_private=true" alt="GitHub Stats" height="165px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jijojacob988&theme=react" alt="GitHub Streak" height="165px"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jijojacob988&layout=compact&theme=react" alt="Top Languages" height="165px"/>
-</p>
-
----
-
 ## 🎯 What I'm Working On  
 ✅ **Mastering System Design & Scalability** for robust applications  
 ✅ **Enhancing Communication Skills** for effective collaboration  
@@ -63,10 +50,10 @@ Real-time cryptocurrency market analysis.
 ---
 
 ## 📬 Let's Connect!  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jijo%20Jacob-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/jijojacob988/)  
-[![Twitter](https://img.shields.io/badge/Twitter-@Jijojacob__-blue?style=flat-square&logo=twitter)](https://twitter.com/Jijojacob_)  
-[![Instagram](https://img.shields.io/badge/Instagram-@Jijojacob__-red?style=flat-square&logo=instagram)](https://www.instagram.com/Jijojacob_)  
-[![Email](https://img.shields.io/badge/Email-jijojacob988@gmail.com-red?style=flat-square&logo=gmail)](mailto:jijojacob988@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jijo%20Jacob-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/jijojacob988/)  
+[![Twitter](https://img.shields.io/badge/Twitter-@Jijojacob__-1DA1F2?style=flat&logo=twitter)](https://twitter.com/Jijojacob_)  
+[![Instagram](https://img.shields.io/badge/Instagram-@Jijojacob__-E4405F?style=flat&logo=instagram)](https://www.instagram.com/Jijojacob_)  
+[![Email](https://img.shields.io/badge/Email-jijojacob988@gmail.com-D14836?style=flat&logo=gmail)](mailto:jijojacob988@gmail.com)  
 
 ---
 
@@ -77,5 +64,3 @@ Real-time cryptocurrency market analysis.
 ---
 
 ### ⭐ Check out some of my repositories. Show some ❤️ and maybe leave a ⭐ or two 😅
-
-
