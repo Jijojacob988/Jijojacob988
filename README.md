@@ -1,4 +1,4 @@
-# Hi, I'm Jijo 👋  
+# Hey, I'm Jijo 👋  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jijo%20Jacob-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/jijojacob988/)  
 [![Twitter](https://img.shields.io/badge/Twitter-@Jijojacob__-1DA1F2?style=flat&logo=twitter)](https://twitter.com/Jijojacob_)  
@@ -18,9 +18,21 @@ I specialize in **MERN Stack development** and have a strong interest in **stock
 
 ## 🛠️ Tech Stack  
 **Languages:** JavaScript, Python, SQL, HTML, CSS  
-**Frameworks/Libraries:** React.js, Node.js, Express.js, MongoDB, Redux, Next.js  
-**Tools & Platforms:** Git, Docker, Postman, TradingView, Binance, Nginx  
-**Databases:** MongoDB, MySQL  
+**Frontend:** React.js, Next.js, HTML, CSS, TailwindCSS  
+**Backend:** Node.js, Express.js, MongoDB, MySQL  
+**DevOps:** Docker, Kubernetes (learning)  
+**Microservices:** Familiar with the architecture  
+**Tools & Platforms:** Git, Postman, Nginx, TradingView, Binance  
+**Databases:** MongoDB, MySQL, PostgreSQL (learning)  
+**Message Brokers:** RabbitMQ (learning)  
+
+---
+
+## 🚀 Technologies I'm Exploring  
+- **Microservices Architecture** (learning the fundamentals)  
+- **Docker & Kubernetes** (in progress)  
+- **Redis** (currently learning)  
+- **Message Brokers** (RabbitMQ, Kafka)  
 
 ---
 
@@ -46,14 +58,6 @@ Real-time cryptocurrency market analysis.
 ✅ **Mastering System Design & Scalability** for robust applications  
 ✅ **Enhancing Communication Skills** for effective collaboration  
 ✅ **Building Real-World Trading Strategies** using market data  
-
----
-
-## 📬 Let's Connect!  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jijo%20Jacob-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/jijojacob988/)  
-[![Twitter](https://img.shields.io/badge/Twitter-@Jijojacob__-1DA1F2?style=flat&logo=twitter)](https://twitter.com/Jijojacob_)  
-[![Instagram](https://img.shields.io/badge/Instagram-@Jijojacob__-E4405F?style=flat&logo=instagram)](https://www.instagram.com/Jijojacob_)  
-[![Email](https://img.shields.io/badge/Email-jijojacob988@gmail.com-D14836?style=flat&logo=gmail)](mailto:jijojacob988@gmail.com)  
 
 ---
 
