@@ -29,10 +29,10 @@ I specialize in **MERN Stack development** and have a strong interest in **stock
 ---
 
 ## 🚀 Technologies I'm Exploring  
-- **Microservices Architecture** (learning the fundamentals)  
-- **Docker & Kubernetes** (in progress)  
-- **Redis** (currently learning)  
-- **Message Brokers** (RabbitMQ, Kafka)  
+- **Microservices Architecture** 
+- **Docker & Kubernetes**  
+- **Redis** 
+- **Message Brokers**  
 
 ---
 
