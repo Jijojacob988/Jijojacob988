@@ -10,9 +10,9 @@
 I specialize in **MERN Stack development** and have a strong interest in **stock, options, and crypto trading**. With experience in **building scalable web applications** and analyzing financial markets, I bring a **blend of technology and strategy** to everything I do.  
 
 📍 **Currently Exploring:**  
-- Advanced **React & Next.js** for performance optimization  
+- Advanced **React & Node.js** for performance optimization  
 - **Stock, Options & Crypto Trading** strategies  
-- **Quantitative Research & Market Analysis** (Completed JP Morgan's course)  
+- **Quantitative Research & Market Analysis**   
 
 ---
 
